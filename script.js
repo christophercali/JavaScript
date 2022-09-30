@@ -1,1 +1,1 @@
-alert('My project is going to be aweso, dude!');
+alert('My project is going to be awesome, dude!');
